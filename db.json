@@ -1,4 +1,5 @@
-[
+{
+  "doctors": [
 {
 "name":"Dr. John Doe",
 "org":"Kings London Hospital",
@@ -18,3 +19,5 @@
 },
 "visitDurationInMin":15}
 ]
+
+}
